@@ -1,9 +1,10 @@
-# Master's thesis 
-Title: Integracija verige blokov in tehnologij semantičnega spleta
+# Integration of blockchain and semantic web technologies
 
-Title (English): Integration of blockchain and semantic web technologies
+This repository contains source code for the author's (Domen Gašperlin) master thesis, titled [Integration of blockchain and semantic web technologies](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=133281).
 
-# Get up and running
+His work was further extended with additional analyses and evaluation for a journal paper (*TO APPEAR*).
+
+# Project setup
 
 ### 
 #### Install [solidity compiler](https://docs.soliditylang.org/en/v0.8.0/installing-solidity.html)
